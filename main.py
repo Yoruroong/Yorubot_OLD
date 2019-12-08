@@ -55,9 +55,7 @@ TOKEN = 'discord developers에서 발급한 TOKEN입력'
 ball = ['음...그럴일은 없을거 같아요...', '음...웬지 그 일이 생길거 같아요..', '잘 모르겠어요;;', '그럴 확률을 베제할 수는 없는거 같아요...', '그럴 확률이 높아요!', '꼭 그 일이 실현될거에요!']
 @app.event
 async def on_ready():
-    print('Logged in as')
-    print(app)
-    print('------')
+    print('Login!')
     guild=str(len(app.guilds))
     user=str(len(app.users))
     
