@@ -21,7 +21,7 @@ Yorubot's old version
 
 ## how?
 1. install python(Recommend V.3.5.4)
-2. install module( [module](https://yoru.pe.kr/dpsk/module))
+2. install module([module](https://yoru.pe.kr/dpsk/module))
 3. RUN
 
 If an error occurs, please include it in the issue.
