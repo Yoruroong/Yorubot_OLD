@@ -16,7 +16,7 @@ Yorubot's old version
 
 | NAME | VERSION | developed version |
 |---|---|---|
-| Python | v.3.5.4 or Higher | v.3.5.4 |
+| Python | v.3.5.4 or Higher | v.3.5.4, v.3.7.3 |
 | Module | [module](https://yoru.pe.kr/dpsk/module) | [module](https://yoru.pe.kr/dpsk/module) |
 
 ## how?
