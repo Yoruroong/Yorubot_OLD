@@ -6,7 +6,7 @@ Yorubot's old version
 
 [StayCute](https://discord.gg/NtU5kY2)
 
-[now bot](http://yoru.pe.kr/yorubot)
+[Yorubot V3](http://yoru.pe.kr/yorubot)
 
 **This Discord bot is dedicated to Korea. Please use the untranslated version in other countries or wait for the bot to be developed for other countries.
 
