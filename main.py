@@ -2,7 +2,7 @@
 # 요루가 만들었어요
 # Yoru#0002
 # 출처 남기고 재사용 가능
-# prefix 일일히 바꾸세요 귀찮아요.. << 곧 수정할거에요
+# 코드 더러워서 죄송합니다
 import discord
 import json
 import os
