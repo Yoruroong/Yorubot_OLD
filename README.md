@@ -19,7 +19,7 @@ Yorubot's old version
 | Python | v.3.5.4 or Higher | v.3.5.4, v.3.7.4 |
 | Module | [module](https://yoru.pe.kr/dpsk/module) | [module](https://yoru.pe.kr/dpsk/module) |
 
-## how?
+## How to run yorubot
 1. install python(Recommend V.3.5.4)
 2. install module([module](https://yoru.pe.kr/dpsk/module))
 3. RUN
