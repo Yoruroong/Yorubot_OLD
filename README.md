@@ -1,7 +1,7 @@
 # YoruBot-OLD
 Yorubot's old version
 
-# Before Installation
+# Take a look
 [Yorubot support](https://discord.gg/ZR7aZWA)
 
 [StayCute](https://discord.gg/NtU5kY2)
