@@ -22,6 +22,7 @@ Yorubot's old version
 ## How to run yorubot
 1. install python(Recommend V.3.5.4)
 2. install module([module](https://yoru.pe.kr/dpsk/module))
-3. RUN
+3. Create the following file: users.json
+4. RUN
 
 If an error occurs, please include it in the issue.
