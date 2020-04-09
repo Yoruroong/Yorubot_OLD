@@ -411,13 +411,6 @@ async def on_message(message):
             message = 'Something went terribly wrong! [{}]'.format(e)
             await channel.send(message)
 
-    if message.content.startswith("r!backup"):
-        if message.author.id == 480240821623455746:
-            emsg = await message.channel.send("백업중이에요...")
-            await emsg.edit(content="클라우드에 백업중(11%)")
-            await emsg.edit(content="클라우드에 백업중(69%)")
-            await emsg.edit(content="클라우드에 백업중(100%)")
-            await emsg.edit(content="BACKUP을 성공했어요")
 
     if message.content.startswith('r!8ball'):
         msg = message.content[8:]
